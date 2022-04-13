@@ -1,5 +1,14 @@
 # Hi there 👋
 
+I am currently working a lot on my proxmox server which is a lot of fun. There's always something new to do, try, or learn.
+
+I am trying to find my place either in the CS or IT feild. I am very passionate about both!
+
+I am also learning a bit of regex which is fun to do with crosswords over at https://regexcrossword.com/profile/79061
+
+Commented down below is how I like to set up my operating systems
+
+<!--
 ### OS Setups
 #### Linux
 - Distro: Ubuntu
@@ -15,18 +24,4 @@
 - [Ear Trumpet](https://eartrumpet.app/)
 - Settings -> Start -> Show app list in Start Menu (off)
 - Hide desktop icons
-
-<!--
-**ImaginaryResources/ImaginaryResources** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
